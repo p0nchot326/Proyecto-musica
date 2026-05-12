@@ -1,3 +1,18 @@
+
+# datasets
+*.npy
+*.mp3
+
+# data folders
 fma_small/
 fma_metadata/
+
+# jupyter checkpoints
+.ipynb_checkpoints/
+
+# python
+__pycache__/
+*.pyc
+
+# environment
 .env
